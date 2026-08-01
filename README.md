@@ -1,4 +1,4 @@
-# Hi, I'm Sanjida,
+# Hi, I'm Sanjida
 
 **Industrial & Systems Engineer (M.S., University of Washington)** focused on operations research, simulation, and data science. I build models of physical systems — production lines, logistics networks, inventory policies — and use them to find constraints, size resources, and quantify what each decision costs.
 
