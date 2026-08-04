@@ -18,10 +18,15 @@ Seattle, WA · 🔗 [LinkedIn](https://linkedin.com/in/sanjida-nasreen) · 📄 
 
 ## Featured Projects
 
-### [Multi-Line Production System Balancing](#) · `Python` `SimPy`
-Discrete-event simulation of a two-line, four-component assembly system. Diagnosed three workstations saturated near 100% utilization while final assembly sat starved at 8.5%, then rebalanced work content, retimed material release to bill-of-material ratios, and resized transport batches.
+### [Multi-Line Production System Balancing](https://github.com/sanjida-nasreen/Production-line-balancing-simulation) · `Python` `SimPy`
+Discrete-event simulation of a two-line, four-component assembly system. Diagnosed three
+workstations saturated near 100% utilization while final assembly sat starved at 8.8%,
+then rebalanced work content, retimed material release to bill-of-material ratios, and
+resized transport batches.
 
-**Result:** throughput up 7× (34 → 252 units), average wait at the primary bottleneck cut from ~24 hours to under 10 seconds, and the line moved from a net operating loss to a profit — validated over 10 independent replications.
+**Result:** throughput up 7.5× (33 → 252 units), average wait at the primary bottleneck
+cut from ~23 hours to under 10 seconds, and the line moved from a net operating loss to
+a profit — validated over 10 independent replications.
 
 ### [Digital Twin for Manufacturing Decision Support](#) · `Siemens Tecnomatix` `Python` `Bayesian Optimization`
 Calibrated a digital twin of an assembly–inspection–rework–shipping line against 360 months of production data, then used Bayesian optimization with a Gaussian process surrogate to search six operating decisions under a $300K/month capital budget.
