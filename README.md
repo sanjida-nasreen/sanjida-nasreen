@@ -33,7 +33,7 @@ Calibrated a digital twin of an assembly–inspection–rework–shipping line a
 
 **Result:** predictive accuracy improved from R² = −7.0 to R² = 0.96. Validated the recommended configuration over 30 replications and traced the remaining 22% model-to-reality gap to training-data extrapolation rather than model misspecification.
 
-### [supply-chain-logistics-optimization](#) · `Gurobi` `Python`
+### [supply-chain-logistics-optimization](https://github.com/sanjida-nasreen/supply-chain-logistics-optimization) · `Gurobi` `Python`
 Mixed-integer program trading off transportation, warehouse operating, and unmet-demand costs subject to capacity and fulfillment constraints.
 
 **Result:** Optimized shipment allocation under warehouse capacity constraints while reducing total logistics cost by 5.6% and identifying capacity bottlenecks across the network.
