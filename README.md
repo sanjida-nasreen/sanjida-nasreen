@@ -38,7 +38,7 @@ Mixed-integer program trading off transportation, warehouse operating, and unmet
 
 **Result:** Optimized shipment allocation under warehouse capacity constraints while reducing total logistics cost by 5.6% and identifying capacity bottlenecks across the network.
 
-### [Stockout Risk Forecasting](#) · `Python` `scikit-learn` `TensorFlow`
+### [Stockout Risk Forecasting](https://github.com/sanjida-nasreen/inventory-stockout-risk-prediction) · `Python` `scikit-learn` `TensorFlow`
 Classification framework on a 73,000-row, four-region retail time series with engineered rolling-demand features. Benchmarked Logistic Regression, Decision Tree, Random Forest, and LSTM under expanding-window cross-validation.
 
 **Result:** F1 ≈ 0.97 for stockout risk classification.
