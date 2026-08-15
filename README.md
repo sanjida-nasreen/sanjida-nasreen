@@ -28,7 +28,7 @@ resized transport batches.
 cut from ~23 hours to under 10 seconds, and the line moved from a net operating loss to
 a profit — validated over 10 independent replications.
 
-### [Digital Twin for Manufacturing Decision Support](#) · `Siemens Tecnomatix` `Python` `Bayesian Optimization`
+### [Digital Twin for Manufacturing Decision Support](https://github.com/sanjida-nasreen/digital-twin-manufacturing-decision-support) · `Siemens Tecnomatix` `Python` `Bayesian Optimization`
 Calibrated a digital twin of an assembly–inspection–rework–shipping line against 360 months of production data, then used Bayesian optimization with a Gaussian process surrogate to search six operating decisions under a $300K/month capital budget.
 
 **Result:** predictive accuracy improved from R² = −7.0 to R² = 0.96. Validated the recommended configuration over 30 replications and traced the remaining 22% model-to-reality gap to training-data extrapolation rather than model misspecification.
