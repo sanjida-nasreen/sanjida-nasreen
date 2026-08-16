@@ -43,7 +43,7 @@ Classification framework on a 73,000-row, four-region retail time series with en
 
 **Result:** F1 ≈ 0.97 for stockout risk classification.
 
-### [Optimal Spaced Repetition via Markov Decision Processes](#) · `Python`
+### [Optimal Spaced Repetition via Markov Decision Processes](https://github.com/sanjida-nasreen/interpretable-spaced-repetition-mdp/tree/main) · `Python`
 Stochastic shortest-path MDP for adaptive review scheduling, solved by value iteration. Compared the optimal policy against interpretable threshold policies to quantify the cost of simplicity.
 
 ---
