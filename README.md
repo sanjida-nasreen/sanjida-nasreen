@@ -24,7 +24,7 @@ workstations saturated near 100% utilization while final assembly sat starved at
 then rebalanced work content, retimed material release to bill-of-material ratios, and
 resized transport batches.
 
-**Result:** throughput up 7.6 × (33 → 252 units), average wait at the primary bottleneck
+**Result:** throughput up 7.5 × (33 → 252 units), average wait at the primary bottleneck
 cut from ~23 hours to under 10 seconds, and the line moved from a net operating loss to
 a profit — validated over 10 independent replications.
 
