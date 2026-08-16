@@ -19,7 +19,7 @@ Seattle, WA · 🔗 [LinkedIn](https://linkedin.com/in/sanjida-nasreen) · 📄 
 ## Featured Projects
 
 ### [Multi-Line Production System Balancing](https://github.com/sanjida-nasreen/Production-line-balancing-simulation) · `Python` `SimPy`
-Discrete-event simulation of a two-line, four-component assembly system. Diagnosed three
+Discrete-event simulation of a two-line, four-component assembly system. Diagnosed four
 workstations saturated near 100% utilization while final assembly sat starved at 8.8%,
 then rebalanced work content, retimed material release to bill-of-material ratios, and
 resized transport batches.
