@@ -29,7 +29,7 @@ cut from ~23 hours to under 10 seconds, and the line moved from a net operating 
 a profit — validated over 10 independent replications.
 
 ### [Digital Twin for Manufacturing Decision Support](https://github.com/sanjida-nasreen/digital-twin-manufacturing-decision-support) · `Siemens Tecnomatix` `Python` `Bayesian Optimization`
-Calibrated a digital twin of an assembly–inspection–rework–shipping line against 360 months of production data, then used Bayesian optimization with a Gaussian process surrogate to search six operating decisions under a $300K/month capital budget.
+Calibrated a digital twin of an assembly–inspection–rework–delivery system against 360 months of field data using RF + Gradient Boosting with Bayesian Ridge stacking, followed by online Bayesian bias/scale correction to search six operating decisions under a $300K/month capital budget.
 
 **Result:** predictive accuracy improved from R² = −7.0 to R² = 0.96. Validated the recommended configuration over 30 replications and traced the remaining 22% model-to-reality gap to training-data extrapolation rather than model misspecification.
 
@@ -44,7 +44,7 @@ Classification framework on a 73,000-row, four-region retail time series with en
 **Result:** F1 ≈ 0.97 for stockout risk classification.
 
 ### [Optimal Spaced Repetition via Markov Decision Processes](https://github.com/sanjida-nasreen/interpretable-spaced-repetition-mdp/tree/main) · `Python`
-Stochastic shortest-path MDP for adaptive review scheduling, solved by value iteration. Compared the optimal policy against interpretable threshold policies to quantify the cost of simplicity.
+Stochastic shortest-path MDP for adaptive review scheduling, solved by value iteration. Compared the optimal policy against interpretable threshold policies to quantify the cost of simplicity. A difficulty-aware threshold policy came within 2.7% of optimal cost, quantifying a small “price of interpretability.
 
 ---
 
